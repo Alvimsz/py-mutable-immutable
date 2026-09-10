@@ -11,5 +11,3 @@ sorted_variables = {
     "mutable": [f, g, h],
     "immutable": [a, b, c, d, e]
 }
-assert sorted_variables["mutable"] == [f, g, h]
-assert sorted_variables["immutable"] == [a, b, c, d, e]
